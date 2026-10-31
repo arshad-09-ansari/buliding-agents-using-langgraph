@@ -6,3 +6,4 @@ langchain-google-genai
 python-dotenv
 pydantic
 langchain-xai
+langchain-groq
